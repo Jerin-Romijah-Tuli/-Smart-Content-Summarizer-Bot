@@ -7,7 +7,7 @@ from youtube_transcript_api import YouTubeTranscriptApi
 from transformers import pipeline
 
 # ================= CONFIGURATION =================
-TOKEN = "7894925409:AAGNYO2aAiyvMBr8-_-30gfaTJpw7CqTf6w"  # Your Telegram bot token
+TOKEN = ""  # Your Telegram bot token
 MODEL_NAME = "philschmid/bart-large-cnn-samsum"           # Specialized summarization model
 
 
