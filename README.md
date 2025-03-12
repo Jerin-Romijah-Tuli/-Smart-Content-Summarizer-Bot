@@ -102,5 +102,5 @@ This project is licensed under the **MIT License**.
 ---
 
 ## 👩‍💻 Contributors
-Developed with ❤️ by **Zerin Romjah Tuli** 🚀
+Developed with ❤️ by **Jerin Romjah Tuli** 🚀
 
